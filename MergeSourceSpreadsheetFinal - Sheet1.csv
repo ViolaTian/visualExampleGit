@@ -1,0 +1,210 @@
+Country ,Freedom Status,PR,CL,Freedom Rating,Aggregate Score,,Country,Region,Income Group,ROL Score,Factor 1: Constraints on Government Powers,Factor 2: Absence of Corruption,Factor 3: Open Government,Factor 4: Fundamental Rights,Factor 5: Order and Security,Factor 6: Regulatory Enforcement,Factor 7: Civil Justice,Factor 8: Criminal Justice,,Country,Porportion of Undernourished Population,Prevalence of wasting in children under five years (%),Prevalence of stunting in children under five years (%),Under five mortality rate (%),Score,,Hunger Score,ROL Score
+Abkhazia *,Partly Free,4,5,4.5,41,#N/A,Austria,,High,0.82,0.84,0.84,0.72,0.85,0.9,0.84,0.78,0.8,#N/A,Afghanistan,26.8,9.5,40.9,9.7,35.4,,#N/A,#N/A
+Afghanistan,Not Free,5,6,5.5,26,#N/A,Bahamas,Latin America & Caribbean,High,0.61,0.61,0.65,0.5,0.66,0.75,0.51,0.58,0.62,35.4,Albania,8.5,7.2,17.8,1.5,13.2,,35.4,#N/A
+Albania,Partly Free,3,3,3,68,#N/A,Bangladesh,South Asia,Lower middle,0.41,0.42,0.37,0.44,0.33,0.57,0.42,0.39,0.34,13.2,Algeria,2.9,4.1,11.7,2.5,8.7,,13.2,#N/A
+Algeria,Not Free,6,5,5.5,35,#N/A,Barbados,Latin America & Caribbean,High,0.65,0.65,0.68,0.52,0.74,0.76,0.62,0.65,0.58,8.7,Angola,14.2,5.9,31.5,16.7,32.6,,8.7,#N/A
+Andorra,Free,1,1,1,96,#N/A,Belarus,Eastern Europe & Central Asia,Upper middle,0.52,0.36,0.55,0.36,0.47,0.81,0.5,0.6,0.48,#N/A,Argentina,0.2,1.6,7.7,1.3,5,,#N/A,#N/A
+Angola,Not Free,6,6,6,26,#N/A,Belgium,EU + EFTA + North America,High,0.79,0.83,0.8,0.77,0.84,0.81,0.81,0.76,0.72,32.6,Armenia,5.8,4.2,20.8,1.6,11.2,,32.6,#N/A
+Antigua and Barbuda,Free,2,2,2,83,#N/A,Belize,Latin America & Caribbean,Upper middle,0.48,0.46,0.44,0.45,0.49,0.73,0.42,0.5,0.34,#N/A,Azerbaijan,1.7,3.1,18,3.4,10,,#N/A,#N/A
+Argentina,Free,2,2,2,83,#N/A,Benin,Sub-Saharan Africa,Low,0.5,0.54,0.38,0.39,0.56,0.78,0.51,0.38,0.44,5,Bangladesh,16.4,14.3,36.1,4.1,27.3,,5,#N/A
+Armenia,Partly Free,5,4,4.5,45,#N/A,Bolivia,Latin America & Caribbean,Lower middle,0.38,0.36,0.26,0.42,0.47,0.59,0.4,0.35,0.21,11.2,Belarus,0.8,2.2,3.7,0.5,5,,11.2,#N/A
+Australia,Free,1,1,1,98,#N/A,Bosnia and Herzegovina,Eastern Europe & Central Asia,Upper middle,0.53,0.45,0.44,0.47,0.59,0.76,0.49,0.51,0.5,#N/A,Benin,7.5,4.5,34,8.5,21.8,,#N/A,#N/A
+Austria,Free,1,1,1,94,0.8,Botswana,Sub-Saharan Africa,Upper middle,0.59,0.58,0.6,0.48,0.58,0.71,0.6,0.6,0.57,#N/A,Bhutan,0,5.9,33.6,3.6,-1,,#N/A,0.8
+Azerbaijan,Not Free,7,6,6.5,12,#N/A,Brazil,Latin America & Caribbean,Upper middle,0.53,0.56,0.45,0.62,0.55,0.65,0.52,0.55,0.35,10,Bolivia,15.9,1.6,23.8,3.9,16.9,,10,#N/A
+Bahamas,Free,1,1,1,91,0.62,Bulgaria,EU + EFTA + North America,Upper middle,0.54,0.46,0.44,0.54,0.6,0.77,0.54,0.56,0.45,#N/A,Bosnia & Herzegovina,0.9,2.3,8.9,0.7,5,,#N/A,0.62
+Bahrain,Not Free,7,6,6.5,12,#N/A,Burkina Faso,Sub-Saharan Africa,Low,0.5,0.55,0.44,0.46,0.57,0.62,0.46,0.46,0.47,#N/A,Botswana,24.1,5.5,23.1,4.7,23.1,,#N/A,#N/A
+Bangladesh,Partly Free,4,4,4,45,0.34,Cambodia,East Asia & Pacific,Lower middle,0.32,0.29,0.24,0.27,0.35,0.66,0.29,0.23,0.25,27.3,Brazil,1.6,1.8,6,1.4,5,,27.3,0.34
+Barbados,Free,1,1,1,96,0.58,Cameroon,Sub-Saharan Africa,Lower middle,0.37,0.39,0.27,0.34,0.39,0.51,0.41,0.39,0.28,#N/A,Bulgaria,9,3.2,7.6,1.2,8.5,,#N/A,0.58
+Belarus,Not Free,6,6,6,21,0.48,Canada,EU + EFTA + North America,High,0.81,0.85,0.83,0.81,0.83,0.91,0.81,0.7,0.73,5,Burkina Faso,20.7,10.9,32.9,9.8,31.8,,5,0.48
+Belgium,Free,1,1,1,95,0.72,Chile,Latin America & Caribbean,High,0.68,0.72,0.7,0.72,0.73,0.68,0.65,0.63,0.57,#N/A,Burundi,0,6.1,57.5,8.3,-1,,#N/A,0.72
+Belize,Free,1,2,1.5,86,0.34,China,East Asia & Pacific,Upper middle,0.49,0.33,0.55,0.42,0.32,0.79,0.48,0.54,0.47,#N/A,Cambodia,14.2,9.6,32.4,3.8,22.6,,#N/A,0.34
+Benin,Free,2,2,2,82,0.44,Colombia,Latin America & Caribbean,Upper middle,0.5,0.53,0.38,0.63,0.53,0.59,0.5,0.48,0.33,21.8,Cameroon,9.9,5.8,32.6,9.5,24.2,,21.8,0.44
+Bhutan,Partly Free,3,4,3.5,55,#N/A,"Congo, Dem. Rep.",Sub-Saharan Africa,Low,0.33,0.32,0.18,0.32,0.37,0.48,0.37,0.36,0.27,-1,Central African Republic,47.7,7.4,40.7,13.9,46.9,,-1,#N/A
+Bolivia,Partly Free,3,3,3,67,0.21,Costa Rica,Latin America & Caribbean,Upper middle,0.69,0.78,0.68,0.71,0.78,0.69,0.68,0.62,0.55,16.9,Chad,34.4,15.7,38.7,14.8,46.4,,16.9,0.21
+Bosnia and Herzegovina,Partly Free,4,4,4,55,0.5,Cote d'Ivoire,Sub-Saharan Africa,Lower middle,0.46,0.41,0.37,0.37,0.46,0.68,0.52,0.52,0.38,#N/A,Chile,2.5,0.3,1.8,0.8,5,,#N/A,0.5
+Botswana,Free,3,2,2.5,72,0.57,Croatia,EU + EFTA + North America,High,0.61,0.58,0.57,0.61,0.65,0.82,0.55,0.58,0.51,23.1,China,9.3,2.3,9.4,1.3,8.6,,23.1,0.57
+Brazil,Free,2,2,2,78,0.35,Czech Republic,EU + EFTA + North America,High,0.73,0.73,0.64,0.66,0.78,0.9,0.7,0.7,0.7,5,Colombia,8.8,0.9,12.7,1.7,8.8,,5,0.35
+Brunei,Not Free,6,5,5.5,28,#N/A,Denmark,EU + EFTA + North America,High,0.9,0.95,0.95,0.86,0.92,0.93,0.9,0.87,0.83,#N/A,"Congo, Dem. Rep.",0,8.1,42.6,11.9,-1,,#N/A,#N/A
+Bulgaria,Free,2,2,2,80,0.45,Dominica,Latin America & Caribbean,Upper middle,0.59,0.53,0.6,0.5,0.64,0.76,0.52,0.59,0.55,8.5,"Congo, Rep.",30.5,5.9,25,4.9,26.6,,8.5,0.45
+Burkina Faso,Partly Free,4,3,3.5,60,0.47,Dominican Republic,Latin America & Caribbean,Upper middle,0.46,0.45,0.39,0.51,0.56,0.63,0.39,0.43,0.34,31.8,Costa Rica,3.8,1.1,3.5,1,5,,31.8,0.47
+Burundi,Not Free,7,6,6.5,18,#N/A,Ecuador,Latin America & Caribbean,Upper middle,0.48,0.46,0.41,0.51,0.49,0.62,0.49,0.48,0.35,-1,Croatia,2.5,1.2,1,0.5,5,,-1,#N/A
+Cambodia,Not Free,6,5,5.5,30,0.25,Egypt,Middle East & North Africa,Lower middle,0.36,0.29,0.4,0.22,0.29,0.54,0.35,0.38,0.41,22.6,Cuba,0.8,2.1,4.9,0.6,5,,22.6,0.25
+Cameroon,Not Free,6,6,6,22,0.28,El Salvador,Latin America & Caribbean,Lower middle,0.48,0.47,0.4,0.51,0.52,0.63,0.49,0.51,0.29,24.2,Côte d'Ivoire,13.3,7.6,29.6,10,26.3,,24.2,0.28
+Canada,Free,1,1,1,99,0.73,Estonia,EU + EFTA + North America,High,0.81,0.84,0.8,0.8,0.83,0.89,0.79,0.8,0.71,#N/A,Djibouti,15.9,21.5,33.5,7,33.2,,#N/A,0.73
+Cape Verde,Free,1,1,1,90,#N/A,Ethiopia,Sub-Saharan Africa,Low,0.39,0.33,0.46,0.28,0.29,0.64,0.36,0.41,0.33,#N/A,Dominican Republic,12.3,2.4,7.1,2.8,10.8,,#N/A,#N/A
+Central African Republic,Not Free,7,7,7,9,#N/A,Finland,EU + EFTA + North America,High,0.87,0.92,0.89,0.87,0.92,0.92,0.84,0.8,0.84,46.9,Ecuador,10.9,2.3,25.2,2.3,14,,46.9,#N/A
+Chad,Not Free,7,6,6.5,18,#N/A,France,EU + EFTA + North America,High,0.73,0.74,0.75,0.79,0.74,0.74,0.77,0.71,0.63,46.4,"Egypt, Arab Rep.",1.9,9.5,22.3,2.2,13.5,,46.4,#N/A
+Chile,Free,1,1,1,94,0.57,Georgia,Eastern Europe & Central Asia,Lower middle,0.61,0.57,0.7,0.59,0.62,0.78,0.56,0.54,0.52,5,El Salvador,12.4,2,14,1.6,11.1,,5,0.57
+China,Not Free,7,6,6.5,14,0.47,Germany,EU + EFTA + North America,High,0.84,0.85,0.82,0.79,0.85,0.89,0.85,0.86,0.78,8.6,Eritrea,0,15.3,50.3,5,-1,,8.6,0.47
+Colombia,Partly Free,3,3,3,65,0.33,Ghana,Sub-Saharan Africa,Lower middle,0.58,0.7,0.41,0.51,0.64,0.71,0.55,0.62,0.49,8.8,Estonia,2,2.4,3.6,0.3,5,,8.8,0.33
+Comoros,Partly Free,3,4,3.5,55,#N/A,Greece,EU + EFTA + North America,High,0.62,0.69,0.57,0.61,0.66,0.72,0.59,0.58,0.51,#N/A,Ethiopia,32,8.7,40.4,6.4,33.9,,#N/A,#N/A
+"Congo, Democratic Republic of (Kinshasa)",Not Free,7,6,6.5,17,#N/A,Grenada,Latin America & Caribbean,Upper middle,0.6,0.59,0.66,0.47,0.63,0.77,0.58,0.62,0.5,#N/A,Fiji,4.5,6.6,3.7,2.4,8.7,,#N/A,#N/A
+"Congo, Republic of (Brazzaville)",Not Free,7,5,6,21,#N/A,Guatemala,Latin America & Caribbean,Upper middle,0.46,0.54,0.37,0.51,0.55,0.59,0.42,0.37,0.32,#N/A,Gabon,2.7,3.4,17.5,5.6,12.5,,#N/A,#N/A
+Costa Rica,Free,1,1,1,91,0.55,Guinea,Sub-Saharan Africa,Low,0.44,0.39,0.28,0.39,0.52,0.75,0.43,0.41,0.31,5,"Gambia, The",5.3,11.5,24.5,7.4,21.5,,5,0.55
+Crimea *,Not Free,7,6,6.5,9,#N/A,Guyana,Latin America & Caribbean,Upper middle,0.5,0.57,0.46,0.44,0.56,0.61,0.46,0.53,0.38,#N/A,Georgia,7.4,2.4,11.8,1.3,8.5,,#N/A,#N/A
+Croatia,Free,1,2,1.5,86,0.51,Honduras,Latin America & Caribbean,Lower middle,0.4,0.37,0.34,0.42,0.41,0.6,0.4,0.41,0.26,5,Ghana,2.3,4.7,18.8,7.8,15.5,,5,0.51
+Cuba,Not Free,7,6,6.5,14,#N/A,"Hong Kong SAR, China",East Asia & Pacific,High,0.77,0.65,0.84,0.75,0.66,0.93,0.82,0.77,0.71,5,Guatemala,15.6,2.1,44,3.1,21.1,,5,#N/A
+Cyprus,Free,1,1,1,94,#N/A,Hungary,EU + EFTA + North America,High,0.53,0.41,0.51,0.46,0.58,0.91,0.47,0.46,0.48,#N/A,Guinea,16.4,7.8,33.5,10.1,28.8,,#N/A,#N/A
+Czech Republic,Free,1,1,1,93,0.7,India,South Asia,Lower middle,0.51,0.61,0.43,0.61,0.53,0.59,0.48,0.45,0.4,#N/A,Guinea-Bissau,20.7,6,27.6,12.4,30.3,,#N/A,0.7
+Côte d'Ivoire,Partly Free,4,4,4,51,#N/A,Indonesia,East Asia & Pacific,Lower middle,0.52,0.66,0.38,0.54,0.52,0.7,0.55,0.44,0.37,26.3,Guyana,10.6,6.4,12,3.7,14.4,,26.3,#N/A
+Denmark,Free,1,1,1,97,0.83,Iran,Middle East & North Africa,Upper middle,0.45,0.39,0.45,0.29,0.25,0.75,0.48,0.55,0.42,#N/A,Haiti,53.4,5.2,21.9,7.3,37.3,,#N/A,0.83
+Djibouti,Not Free,6,5,5.5,26,#N/A,Italy,EU + EFTA + North America,High,0.65,0.71,0.63,0.63,0.73,0.74,0.59,0.56,0.64,33.2,Honduras,12.2,1.4,22.7,2.2,13.4,,33.2,#N/A
+Dominica,Free,1,1,1,93,0.55,Jamaica,Latin America & Caribbean,Upper middle,0.56,0.62,0.54,0.56,0.63,0.62,0.54,0.51,0.5,#N/A,India,15.2,15,38.8,5.3,29,,#N/A,0.55
+Dominican Republic,Partly Free,3,3,3,67,0.34,Japan,East Asia & Pacific,High,0.78,0.71,0.82,0.69,0.78,0.92,0.78,0.79,0.74,10.8,Indonesia,7.6,13.5,36.4,2.9,22.1,,10.8,0.34
+Ecuador,Partly Free,3,3,3,60,0.35,Jordan,Middle East & North Africa,Upper middle,0.57,0.49,0.58,0.41,0.49,0.77,0.58,0.63,0.58,14,"Iran, Islamic Rep.",3.2,4,6.8,1.7,6.8,,14,0.35
+Egypt,Not Free,6,6,6,26,0.41,Kazakhstan,Eastern Europe & Central Asia,Upper middle,0.52,0.43,0.47,0.47,0.46,0.78,0.51,0.59,0.44,#N/A,Iraq,22.8,7.4,22.6,3.4,22.2,,#N/A,0.41
+El Salvador,Free,2,3,2.5,70,0.29,Kenya,Sub-Saharan Africa,Lower middle,0.45,0.49,0.27,0.49,0.46,0.56,0.46,0.47,0.38,11.1,Jamaica,8.1,3.5,4.8,1.7,8.1,,11.1,0.29
+Equatorial Guinea,Not Free,7,7,7,7,#N/A,Kyrgyzstan,Eastern Europe & Central Asia,Lower middle,0.48,0.48,0.31,0.54,0.49,0.75,0.45,0.49,0.31,#N/A,Jordan,1.8,2.4,7.8,1.9,5.8,,#N/A,#N/A
+Eritrea,Not Free,7,7,7,3,#N/A,Lebanon,Middle East & North Africa,Upper middle,0.47,0.52,0.39,0.44,0.52,0.64,0.44,0.44,0.38,-1,Kazakhstan,2.5,4.1,13.1,1.6,8,,-1,#N/A
+Estonia,Free,1,1,1,94,0.71,Liberia,Sub-Saharan Africa,Low,0.46,0.53,0.32,0.49,0.52,0.61,0.43,0.44,0.32,5,Kenya,21.2,4,26,7.1,24,,5,0.71
+Eswatini,Not Free,7,6,6.5,16,#N/A,"Macedonia, FYR",Eastern Europe & Central Asia,Upper middle,0.54,0.47,0.47,0.49,0.57,0.79,0.48,0.57,0.47,#N/A,Kuwait,3.1,2.4,5.8,1,5,,#N/A,#N/A
+Ethiopia,Not Free,7,6,6.5,12,0.33,Madagascar,Sub-Saharan Africa,Low,0.43,0.44,0.26,0.46,0.47,0.71,0.35,0.4,0.34,33.9,Kyrgyz Republic,6,2.8,12.9,2.4,9.4,,33.9,0.33
+Fiji,Partly Free,3,3,3,59,#N/A,Malawi,Sub-Saharan Africa,Low,0.51,0.56,0.42,0.43,0.59,0.68,0.45,0.54,0.45,8.7,Lao PDR,18.5,6.4,43.8,7.1,28.5,,8.7,#N/A
+Finland,Free,1,1,1,100,0.84,Malaysia,East Asia & Pacific,Upper middle,0.55,0.54,0.58,0.38,0.48,0.77,0.53,0.6,0.54,#N/A,Latvia,1.4,2.5,2.9,0.8,5,,#N/A,0.84
+France,Free,1,2,1.5,90,0.63,Mali,Sub-Saharan Africa,Low,0.45,0.48,0.31,0.43,0.54,0.56,0.54,0.43,0.28,#N/A,Lebanon,3,3.5,9.9,0.9,6.4,,#N/A,0.63
+Gabon,Not Free,7,5,6,23,#N/A,Mauritania,Sub-Saharan Africa,Lower middle,0.35,0.3,0.31,0.26,0.39,0.65,0.26,0.32,0.3,12.5,Lesotho,11.2,2.8,33.2,9.8,23.5,,12.5,#N/A
+"Gambia, The",Partly Free,4,5,4.5,41,#N/A,Mauritius,Sub-Saharan Africa,Upper middle,0.61,0.6,0.58,0.54,0.64,0.77,0.63,0.63,0.53,21.5,Liberia,31.9,5.6,32.1,7.1,-1,,21.5,#N/A
+Gaza Strip *,Not Free,7,6,6.5,12,#N/A,Mexico,Latin America & Caribbean,Upper middle,0.45,0.47,0.29,0.61,0.54,0.57,0.46,0.4,0.29,#N/A,Libya,0,6.7,21.8,1.5,-1,,#N/A,#N/A
+Georgia,Partly Free,3,3,3,64,0.52,Moldova,Eastern Europe & Central Asia,Lower middle,0.49,0.43,0.32,0.55,0.54,0.8,0.42,0.47,0.34,8.5,Lithuania,1.4,2.6,2.9,0.5,5,,8.5,0.52
+Germany,Free,1,1,1,94,0.78,Mongolia,East Asia & Pacific,Lower middle,0.55,0.54,0.44,0.51,0.58,0.77,0.49,0.54,0.5,#N/A,"Macedonia, FYR",2.4,4.3,7.7,0.7,5.9,,#N/A,0.78
+Ghana,Free,1,2,1.5,83,0.49,Morocco,Middle East & North Africa,Lower middle,0.5,0.53,0.44,0.44,0.46,0.69,0.54,0.54,0.38,15.5,Madagascar,33,9.8,49.3,5.6,36.3,,15.5,0.49
+Greece,Free,2,2,2,85,0.51,Mozambique,Sub-Saharan Africa,Low,0.43,0.45,0.37,0.37,0.42,0.62,0.38,0.46,0.34,#N/A,Malawi,20.7,3.8,42.4,6.8,27.3,,#N/A,0.51
+Grenada,Free,1,2,1.5,88,0.5,Myanmar,East Asia & Pacific,Lower middle,0.42,0.45,0.47,0.35,0.31,0.66,0.46,0.36,0.29,#N/A,Malaysia,2,10.7,11.2,0.9,10.3,,#N/A,0.5
+Guatemala,Partly Free,4,4,4,56,0.32,Namibia,Sub-Saharan Africa,Upper middle,0.62,0.68,0.53,0.58,0.66,0.73,0.58,0.66,0.54,21.1,Mali,4.1,12.7,38.3,12.3,29.6,,21.1,0.32
+Guinea,Partly Free,5,5,5,41,0.31,Nepal,South Asia,Low,0.53,0.6,0.43,0.52,0.54,0.72,0.5,0.47,0.44,28.8,Mauritania,5.6,11.6,22,9,22.6,,28.8,0.31
+Guinea-Bissau,Partly Free,5,5,5,41,#N/A,Netherlands,EU + EFTA + North America,High,0.84,0.86,0.88,0.82,0.84,0.85,0.86,0.86,0.76,30.3,Mexico,4.3,1.6,13.6,1.5,7.3,,30.3,#N/A
+Guyana,Free,2,3,2.5,74,0.38,New Zealand,East Asia & Pacific,High,0.82,0.85,0.87,0.81,0.8,0.89,0.85,0.78,0.72,14.4,Moldova,12.2,1.9,6.4,1.5,9.1,,14.4,0.38
+Haiti,Partly Free,5,5,5,41,#N/A,Nicaragua,Latin America & Caribbean,Lower middle,0.4,0.27,0.35,0.38,0.39,0.7,0.45,0.41,0.28,37.3,Mongolia,20.5,1,10.8,3.2,14.7,,37.3,#N/A
+Honduras,Partly Free,4,4,4,46,0.26,Niger,Sub-Saharan Africa,Low,0.44,0.42,0.43,0.35,0.49,0.65,0.44,0.43,0.34,13.4,Montenegro,0.3,2.8,9.4,0.5,5,,13.4,0.26
+Hong Kong *,Partly Free,5,2,3.5,59,0.71,Nigeria,Sub-Saharan Africa,Lower middle,0.43,0.54,0.34,0.43,0.46,0.35,0.43,0.48,0.43,#N/A,Morocco,4.4,2.3,14.9,3,9.5,,#N/A,0.71
+Hungary,Free,3,2,2.5,72,0.48,Norway,EU + EFTA + North America,High,0.89,0.94,0.94,0.88,0.9,0.93,0.87,0.85,0.83,#N/A,Mozambique,25.3,6.1,43.1,8.7,32.5,,#N/A,0.48
+Iceland,Free,1,1,1,95,#N/A,Pakistan,South Asia,Lower middle,0.39,0.52,0.32,0.45,0.38,0.36,0.38,0.38,0.35,#N/A,Myanmar,14.2,7.9,35.1,5.1,23.5,,#N/A,#N/A
+India,Free,2,3,2.5,77,0.4,Panama,Latin America & Caribbean,High,0.52,0.53,0.42,0.59,0.62,0.68,0.51,0.49,0.31,29,Namibia,42.3,7.1,23.1,5,31.8,,29,0.4
+Indian Kashmir *,Partly Free,4,4,4,49,#N/A,Peru,Latin America & Caribbean,Upper middle,0.51,0.61,0.33,0.55,0.63,0.64,0.5,0.46,0.33,#N/A,Nepal,7.8,11.3,37.4,4,22.2,,#N/A,#N/A
+Indonesia,Partly Free,2,4,3,64,0.37,Philippines,East Asia & Pacific,Lower middle,0.47,0.53,0.47,0.53,0.42,0.57,0.47,0.44,0.31,22.1,Nicaragua,16.6,1.1,15.9,2.4,13.6,,22.1,0.37
+Iran,Not Free,6,6,6,18,0.42,Poland,EU + EFTA + North America,High,0.66,0.58,0.73,0.63,0.66,0.86,0.62,0.64,0.61,#N/A,Niger,9.5,18.7,43,10.4,34.5,,#N/A,0.42
+Iraq,Not Free,5,6,5.5,31,#N/A,Portugal,EU + EFTA + North America,High,0.71,0.79,0.72,0.67,0.79,0.79,0.64,0.69,0.6,22.2,Nigeria,7,18.1,36.4,11.7,32.8,,22.2,#N/A
+Ireland,Free,1,1,1,96,#N/A,Republic of Korea,East Asia & Pacific,High,0.73,0.72,0.67,0.69,0.74,0.84,0.73,0.77,0.71,#N/A,North Korea,41.6,4,27.9,2.7,28.8,,#N/A,#N/A
+Israel,Free,1,3,2,79,#N/A,Romania,EU + EFTA + North America,Upper middle,0.64,0.62,0.57,0.62,0.7,0.84,0.57,0.64,0.57,#N/A,Oman,0,3.7,5,1.1,-1,,#N/A,#N/A
+Italy,Free,1,1,1,89,0.64,Russia,Eastern Europe & Central Asia,Upper middle,0.47,0.37,0.45,0.49,0.45,0.66,0.49,0.52,0.34,#N/A,Pakistan,22,10.5,45,8.6,33.9,,#N/A,0.64
+Jamaica,Free,2,3,2.5,77,0.5,Rwanda,Sub-Saharan Africa,Low,0.61,0.6,0.6,0.57,0.52,0.84,0.57,0.63,0.55,8.1,Panama,9.5,1,14.3,1.8,9.6,,8.1,0.5
+Japan,Free,1,1,1,96,0.74,Senegal,Sub-Saharan Africa,Low,0.55,0.58,0.54,0.44,0.6,0.69,0.55,0.56,0.45,#N/A,Papua New Guinea,0,14.3,49.5,6.1,-1,,#N/A,0.74
+Jordan,Partly Free,5,5,5,37,0.58,Serbia,Eastern Europe & Central Asia,Upper middle,0.5,0.4,0.44,0.47,0.56,0.78,0.47,0.5,0.38,5.8,Paraguay,10.4,2.7,10.8,2.2,10.5,,5.8,0.58
+Kazakhstan,Not Free,7,5,6,22,0.44,Sierra Leone,Sub-Saharan Africa,Low,0.45,0.51,0.35,0.42,0.52,0.68,0.37,0.41,0.36,8,Peru,7.5,0.4,17.5,1.7,9.1,,8,0.44
+Kenya,Partly Free,4,4,4,48,0.38,Singapore,East Asia & Pacific,High,0.8,0.69,0.91,0.66,0.69,0.93,0.87,0.83,0.78,24,Philippines,13.5,7.9,30.3,3,20.1,,24,0.38
+Kiribati,Free,1,1,1,93,#N/A,Slovenia,EU + EFTA + North America,High,0.67,0.65,0.66,0.65,0.73,0.89,0.64,0.63,0.55,#N/A,Qatar,0,1.9,1.6,0.8,-1,,#N/A,#N/A
+Kosovo,Partly Free,3,4,3.5,52,#N/A,South Africa,Sub-Saharan Africa,Upper middle,0.58,0.62,0.48,0.62,0.64,0.61,0.55,0.59,0.52,#N/A,Romania,0.8,2.9,9.5,1.2,5.3,,#N/A,#N/A
+Kuwait,Partly Free,5,5,5,36,#N/A,Spain,EU + EFTA + North America,High,0.71,0.72,0.72,0.7,0.78,0.77,0.68,0.67,0.66,5,Russian Federation,0.7,4.4,12.3,1,6.6,,5,#N/A
+Kyrgyzstan,Partly Free,5,5,5,37,0.31,Sri Lanka,South Asia,Lower middle,0.52,0.55,0.46,0.5,0.54,0.7,0.49,0.47,0.45,#N/A,Rwanda,31.6,3,44.3,5.2,30.3,,#N/A,0.31
+Laos,Not Free,7,6,6.5,12,#N/A,St. Kitts and Nevis,Latin America & Caribbean,High,0.65,0.64,0.67,0.41,0.72,0.79,0.61,0.75,0.57,#N/A,Saudi Arabia,1.2,4,3.4,1.6,5.1,,#N/A,#N/A
+Latvia,Free,2,2,2,87,#N/A,St. Lucia,Latin America & Caribbean,Upper middle,0.61,0.6,0.63,0.5,0.66,0.72,0.58,0.66,0.57,5,Senegal,24.6,5.9,18.7,5.5,23.2,,5,#N/A
+Lebanon,Partly Free,6,4,5,43,0.38,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle,0.62,0.58,0.7,0.5,0.68,0.74,0.54,0.61,0.6,6.4,Serbia,6.9,3.9,6,0.7,7.1,,6.4,0.38
+Lesotho,Partly Free,3,3,3,64,#N/A,Suriname,Latin America & Caribbean,Upper middle,0.51,0.49,0.51,0.37,0.55,0.65,0.47,0.51,0.53,23.5,Sierra Leone,22.3,9.4,37.9,16.1,38.9,,23.5,#N/A
+Liberia,Partly Free,3,3,3,62,0.32,Sweden,EU + EFTA + North America,High,0.85,0.87,0.91,0.86,0.86,0.88,0.85,0.81,0.81,-1,Slovak Republic,4.8,2.9,3.7,0.7,5.2,,-1,0.32
+Libya,Not Free,7,6,6.5,9,#N/A,Tanzania,Sub-Saharan Africa,Low,0.47,0.52,0.42,0.38,0.45,0.69,0.43,0.48,0.38,-1,Somalia,0,0,0,14.6,-1,,-1,#N/A
+Liechtenstein,Free,2,1,1.5,90,#N/A,Thailand,East Asia & Pacific,Upper middle,0.5,0.47,0.49,0.48,0.48,0.71,0.48,0.49,0.42,#N/A,South Africa,1.7,3.6,22.9,4.4,12.4,,#N/A,#N/A
+Lithuania,Free,1,1,1,91,#N/A,Togo,Sub-Saharan Africa,Low,0.45,0.35,0.42,0.31,0.49,0.74,0.49,0.47,0.36,5,South Sudan,0,22.7,31.1,9.9,-1,,5,#N/A
+Luxembourg,Free,1,1,1,98,#N/A,Trinidad and Tobago,Latin America & Caribbean,High,0.54,0.57,0.5,0.56,0.59,0.66,0.51,0.58,0.35,#N/A,Sri Lanka,22,21.4,14.7,1,25.5,,#N/A,#N/A
+Macedonia,Partly Free,4,3,3.5,58,#N/A,Tunisia,Middle East & North Africa,Lower middle,0.53,0.6,0.47,0.5,0.56,0.63,0.53,0.49,0.43,#N/A,Sudan,0,16.3,38.2,7.7,-1,,#N/A,#N/A
+Madagascar,Partly Free,3,4,3.5,56,0.34,Turkey,Eastern Europe & Central Asia,Upper middle,0.42,0.29,0.48,0.42,0.32,0.63,0.42,0.45,0.38,36.3,Suriname,8,5,8.8,2.3,10.4,,36.3,0.34
+Malawi,Partly Free,3,3,3,63,0.45,Uganda,Sub-Saharan Africa,Low,0.4,0.41,0.26,0.4,0.38,0.59,0.42,0.45,0.33,27.3,Swaziland,26.8,2,25.5,8,26,,27.3,0.45
+Malaysia,Partly Free,4,4,4,45,0.54,Ukraine,Eastern Europe & Central Asia,Lower middle,0.5,0.46,0.33,0.55,0.61,0.73,0.42,0.54,0.37,10.3,Syrian Arab Republic,0,0,0,1.5,-1,,10.3,0.54
+Maldives,Partly Free,5,5,5,35,#N/A,United Arab Emirates,Middle East & North Africa,High,0.64,0.55,0.79,0.36,0.46,0.91,0.72,0.66,0.67,#N/A,Tajikistan,33.2,9.9,26.8,4.8,30.3,,#N/A,#N/A
+Mali,Partly Free,5,4,4.5,44,0.28,United Kingdom,EU + EFTA + North America,High,0.8,0.84,0.83,0.8,0.82,0.85,0.82,0.73,0.75,29.6,Tanzania,32.1,3.8,34.7,5.2,28.7,,29.6,0.28
+Malta,Free,1,1,1,92,#N/A,United States,EU + EFTA + North America,High,0.71,0.73,0.74,0.77,0.72,0.76,0.73,0.64,0.63,#N/A,Thailand,7.4,6.7,16.3,1.3,11.9,,#N/A,#N/A
+Marshall Islands,Free,1,1,1,92,#N/A,Uruguay,Latin America & Caribbean,High,0.71,0.75,0.74,0.71,0.76,0.7,0.69,0.75,0.54,#N/A,Timor-Leste,26.9,18.9,57.7,5.5,40.7,,#N/A,#N/A
+Mauritania,Not Free,6,5,5.5,30,0.3,Uzbekistan,Eastern Europe & Central Asia,Lower middle,0.46,0.33,0.38,0.31,0.39,0.91,0.44,0.51,0.44,22.6,Togo,11.4,6.5,27.5,8.5,23,,22.6,0.3
+Mauritius,Free,1,2,1.5,89,0.53,Venezuela,Latin America & Caribbean,Upper middle,0.28,0.18,0.32,0.29,0.33,0.48,0.2,0.28,0.14,#N/A,Trinidad & Tobago,7.4,4.3,3.6,2.1,8.3,,#N/A,0.53
+Mexico,Partly Free,3,3,3,62,0.29,Vietnam,East Asia & Pacific,Lower middle,0.49,0.45,0.4,0.46,0.46,0.77,0.45,0.45,0.46,7.3,Tunisia,0.4,2.8,10.1,1.5,5.6,,7.3,0.29
+Micronesia,Free,1,1,1,93,#N/A,Zambia,Sub-Saharan Africa,Lower middle,0.47,0.48,0.4,0.38,0.45,0.69,0.43,0.47,0.43,#N/A,Turkey,0.2,1.7,9.5,1.9,5.1,,#N/A,#N/A
+Moldova,Partly Free,3,3,3,61,0.34,Zimbabwe,Sub-Saharan Africa,Low,0.4,0.33,0.31,0.33,0.35,0.67,0.38,0.46,0.37,9.1,Turkmenistan,3.2,5.5,13.8,5.5,12.9,,9.1,0.34
+Monaco,Free,3,1,2,82,#N/A,,,,,,,,,,,,,#N/A,Uganda,25.5,4.8,33.7,6.6,27.6,,#N/A,#N/A
+Mongolia,Free,1,2,1.5,85,0.5,,,,,,,,,,,,,14.7,Ukraine,1.2,1.3,7.4,1,5,,14.7,0.5
+Montenegro,Partly Free,3,3,3,67,#N/A,,,,,,,,,,,,,5,Uruguay,3.3,1.3,10.7,1.1,5.7,,5,#N/A
+Morocco,Partly Free,5,5,5,39,0.38,,,,,,,,,,,,,9.5,Uzbekistan,4.2,5.8,17.9,4.3,13.3,,9.5,0.38
+Mozambique,Partly Free,4,4,4,52,0.34,,,,,,,,,,,,,32.5,"Venezuela, RB",1.3,3.5,12.8,1.5,7,,32.5,0.34
+Myanmar,Partly Free,5,5,5,31,0.29,,,,,,,,,,,,,23.5,Vietnam,11,5.7,19.4,2.4,14.7,,23.5,0.29
+Nagorno-Karabakh *,Partly Free,5,5,5,30,#N/A,,,,,,,,,,,,,#N/A,"Yemen, Rep.",26.1,13.3,46.6,5.1,34.2,,#N/A,#N/A
+Namibia,Free,2,2,2,77,0.54,,,,,,,,,,,,,31.8,Zambia,47.8,6,40.1,8.7,41.1,,31.8,0.54
+Nauru,Free,2,2,2,81,#N/A,,,,,,,,,,,,,#N/A,Zimbabwe,33.4,3.3,27.6,8.9,30.8,,#N/A,#N/A
+Nepal,Partly Free,3,4,3.5,55,0.44,,,,,,,,,,,,,,,,,,,,,,0.44
+Netherlands,Free,1,1,1,99,0.76,,,,,,,,,,,,,,,,,,,,,,0.76
+New Zealand,Free,1,1,1,98,0.72,,,,,,,,,,,,,,,,,,,,,,0.72
+Nicaragua,Partly Free,5,4,4.5,44,0.28,,,,,,,,,,,,,,,,,,,,,,0.28
+Niger,Partly Free,4,4,4,49,0.34,,,,,,,,,,,,,,,,,,,,,,0.34
+Nigeria,Partly Free,3,5,4,50,0.43,,,,,,,,,,,,,,,,,,,,,,0.43
+North Korea,Not Free,7,7,7,3,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Northern Cyprus *,Free,2,2,2,81,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Norway,Free,1,1,1,100,0.83,,,,,,,,,,,,,,,,,,,,,,0.83
+Oman,Not Free,6,5,5.5,23,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Pakistan,Partly Free,4,5,4.5,43,0.35,,,,,,,,,,,,,,,,,,,,,,0.35
+Pakistani Kashmir *,Not Free,6,5,5.5,28,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Palau,Free,1,1,1,92,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Panama,Free,2,2,2,83,0.31,,,,,,,,,,,,,,,,,,,,,,0.31
+Papua New Guinea,Partly Free,3,3,3,63,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Paraguay,Partly Free,3,3,3,64,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Peru,Free,2,3,2.5,73,0.33,,,,,,,,,,,,,,,,,,,,,,0.33
+Philippines,Partly Free,3,3,3,62,0.31,,,,,,,,,,,,,,,,,,,,,,0.31
+Poland,Free,1,2,1.5,85,0.61,,,,,,,,,,,,,,,,,,,,,,0.61
+Portugal,Free,1,1,1,97,0.6,,,,,,,,,,,,,,,,,,,,,,0.6
+Qatar,Not Free,6,5,5.5,24,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Romania,Free,2,2,2,84,0.57,,,,,,,,,,,,,,,,,,,,,,0.57
+Russia,Not Free,7,6,6.5,20,0.34,,,,,,,,,,,,,,,,,,,,,,0.34
+Rwanda,Not Free,6,6,6,23,0.55,,,,,,,,,,,,,,,,,,,,,,0.55
+Samoa,Free,2,2,2,80,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+San Marino,Free,1,1,1,97,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Saudi Arabia,Not Free,7,7,7,7,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Senegal,Free,2,2,2,75,0.45,,,,,,,,,,,,,,,,,,,,,,0.45
+Serbia,Free,3,2,2.5,73,0.38,,,,,,,,,,,,,,,,,,,,,,0.38
+Seychelles,Partly Free,3,3,3,71,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Sierra Leone,Partly Free,3,3,3,66,0.36,,,,,,,,,,,,,,,,,,,,,,0.36
+Singapore,Partly Free,4,4,4,52,0.78,,,,,,,,,,,,,,,,,,,,,,0.78
+Slovakia,Free,1,1,1,89,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Slovenia,Free,1,1,1,93,0.55,,,,,,,,,,,,,,,,,,,,,,0.55
+Solomon Islands,Free,3,2,2.5,72,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Somalia,Not Free,7,7,7,7,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Somaliland *,Partly Free,4,5,4.5,44,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+South Africa,Free,2,2,2,78,0.52,,,,,,,,,,,,,,,,,,,,,,0.52
+South Korea,Free,2,2,2,84,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+South Ossetia *,Not Free,7,6,6.5,10,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+South Sudan,Not Free,7,7,7,2,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Spain,Free,1,1,1,94,0.66,,,,,,,,,,,,,,,,,,,,,,0.66
+Sri Lanka,Partly Free,3,4,3.5,55,0.45,,,,,,,,,,,,,,,,,,,,,,0.45
+St. Kitts and Nevis,Free,1,1,1,89,0.57,,,,,,,,,,,,,,,,,,,,,,0.57
+St. Lucia,Free,1,1,1,91,0.57,,,,,,,,,,,,,,,,,,,,,,0.57
+St. Vincent and Grenadines,Free,1,1,1,90,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Sudan,Not Free,7,7,7,8,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Suriname,Free,2,2,2,78,0.53,,,,,,,,,,,,,,,,,,,,,,0.53
+Sweden,Free,1,1,1,100,0.81,,,,,,,,,,,,,,,,,,,,,,0.81
+Switzerland,Free,1,1,1,96,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Syria,Not Free,7,7,7,-1,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+São Tomé and Príncipe,Free,2,2,2,82,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Taiwan,Free,1,1,1,93,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Tajikistan,Not Free,7,6,6.5,11,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Tanzania,Partly Free,4,4,4,52,0.38,,,,,,,,,,,,,,,,,,,,,,0.38
+Thailand,Not Free,6,5,5.5,31,0.42,,,,,,,,,,,,,,,,,,,,,,0.42
+Tibet *,Not Free,7,7,7,1,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Timor-Leste,Free,2,3,2.5,69,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Togo,Partly Free,4,4,4,47,0.36,,,,,,,,,,,,,,,,,,,,,,0.36
+Tonga,Free,2,2,2,75,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Transnistria *,Not Free,6,6,6,24,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Trinidad and Tobago,Free,2,2,2,81,0.35,,,,,,,,,,,,,,,,,,,,,,0.35
+Tunisia,Free,2,3,2.5,70,0.43,,,,,,,,,,,,,,,,,,,,,,0.43
+Turkey,Not Free,5,6,5.5,32,0.38,,,,,,,,,,,,,,,,,,,,,,0.38
+Turkmenistan,Not Free,7,7,7,4,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Tuvalu,Free,1,1,1,94,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Uganda,Partly Free,6,4,5,37,0.33,,,,,,,,,,,,,,,,,,,,,,0.33
+Ukraine,Partly Free,3,3,3,62,0.37,,,,,,,,,,,,,,,,,,,,,,0.37
+United Arab Emirates,Not Free,7,6,6.5,17,0.67,,,,,,,,,,,,,,,,,,,,,,0.67
+United Kingdom,Free,1,1,1,94,0.75,,,,,,,,,,,,,,,,,,,,,,0.75
+United States,Free,2,1,1.5,86,0.63,,,,,,,,,,,,,,,,,,,,,,0.63
+Uruguay,Free,1,1,1,98,0.54,,,,,,,,,,,,,,,,,,,,,,0.54
+Uzbekistan,Not Free,7,7,7,7,0.44,,,,,,,,,,,,,,,,,,,,,,0.44
+Vanuatu,Free,2,2,2,81,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Venezuela,Not Free,6,5,5.5,26,0.14,,,,,,,,,,,,,,,,,,,,,,0.14
+Vietnam,Not Free,7,5,6,20,0.46,,,,,,,,,,,,,,,,,,,,,,0.46
+West Bank *,Not Free,7,5,6,28,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Western Sahara *,Not Free,7,7,7,4,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Yemen,Not Free,7,6,6.5,13,#N/A,,,,,,,,,,,,,,,,,,,,,,#N/A
+Zambia,Partly Free,4,4,4,55,0.43,,,,,,,,,,,,,,,,,,,,,,0.43
+Zimbabwe,Not Free,6,5,5.5,30,0.37,,,,,,,,,,,,,,,,,,,,,,0.37
